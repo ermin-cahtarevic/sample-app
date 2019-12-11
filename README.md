@@ -1,24 +1,12 @@
-# README
+# Ruby on Rails Sample App
+A simple Ruby on Rails Sample App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Live version - [Sample App](https://calm-forest-47935.herokuapp.com/)
 
-Things you may want to cover:
+## Technologies used
 
-* Ruby version
+Ruby on Rails.
 
-* System dependencies
+## Contributors
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ermin Cahtarevic - [GitHub](https://github.com/ermin-cahtarevic)
